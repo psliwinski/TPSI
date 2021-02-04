@@ -16,7 +16,7 @@ Technologie programowania systemów internetowych / Technologies of internet sys
 * session handling in servlets
 ### lab6 - Spring Framework<br>
 * MVC, forms handling
-### lab7 - Szablony Thymeleaf<br>
+### lab7 - Thymeleaf Templates<br>
 * attributes, expressions
 ### lab8 - Spring + Thymeleaf: layout and forms' validation<br>
 * services, templates
